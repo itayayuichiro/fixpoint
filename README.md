@@ -10,3 +10,5 @@
 - 例　
     - ruby main.rb log.txt
     - ruby main.rb log.txt log2.txt -d 2017/10/11,2017/10/14
+
+※問４の実装まで至りませんでした。
