@@ -8,4 +8,5 @@
     - ruby main.rb ファイル1 ファイル2 (-d 開始日,終了日)
 
 - 例　
+    - ruby main.rb log.txt
     - ruby main.rb log.txt log2.txt -d 2017/10/11,2017/10/14
